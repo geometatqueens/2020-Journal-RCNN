@@ -1,6 +1,6 @@
-The present repository contains the main codes to train a recursive convolutional nerual network in a MPS framework.
+The present repository contains the main codes to train a recursive convolutional neural network in a MPS framework.
 It has been developed to perform MPS over categorical variables in 2D and 3D.
-None training images are avaiable here but contact authors for any further requirement. 
+None training images are avaiable here but please contact authors for any further requirement. 
 
 This is an open source code under the MIT Licence ®.
 
